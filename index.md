@@ -1,6 +1,6 @@
 # Index of My Side Projects
 
-Written by JamCourage                  
+Written by JamCourage                   
 
 On my GitHub, I will share side projects related to **financial analysis** and **data analysis** , utilizing programming languages such as **Python** , **SQL** , as well as visualization software like **Power BI** , **Tableau** , and statistic tools like **STATA** . If you have any questions, feel free to contact me via       
 Email at jamcouragentu@gmail.com         
